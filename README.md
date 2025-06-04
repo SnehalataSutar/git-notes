@@ -1,24 +1,21 @@
 # git-notes
 <h1> GIT INTRODUCTION </h1>
-________________________________________________________________________________________________________________________________________________
 
 Git is a distributed version control system that tracks changes in files and folders in a project over time. 
 It allows multiple developers to work on the same project simultaneously without interfering with each other's progress. 
 Git is known for its efficiency, flexibility, and robust support for branching and merging.
 
 <h3> github and gitlab </h3>
-__________________________________________________________________________________________________________________________________________________
 
 GitHub is a web-based platform used for storing and managing code, particularly for software development. 
 It uses the version control system Git, which allows multiple people to work on a project together efficiently by tracking changes and enabling collaboration.
 
 <h3> working of git: </h3>
-_________________________________________________________________________________________________________________________________________________
 
 ![Screenshot (64)](https://github.com/user-attachments/assets/e008971b-17e4-402c-96bf-773c9ce6d35e)
 
 <h3> commands in git: </h3>
-__________________________________________________________________________________________________________________________________________________
+
 Before writing the commands to create the directory/folder for converting into git-repository.
 
 1. git config --global user.name user_name
