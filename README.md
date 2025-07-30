@@ -47,3 +47,12 @@ commands-: git diff -for changes in working area
 13) git merge - merge the contain of 1 branch to another branch
     cat>file.txt -> ls -> git status -> git add. -> git commit -m "demo branch" -> ls ->
     git switch main -> ls -> git merge demo -> ls
+
+### Difference between git fetch and git merge
+#### What is git fetch?
+
+✅ It updates your local copy of the remote branches (like origin/main), but does not merge them into your working branch.
+
+#### What is git merge?
+
+✅ It combines the histories of two branches (e.g., merging origin/main into main), and updates your working directory if needed.
